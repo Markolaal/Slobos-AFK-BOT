@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
+  "server": {Markolaal.aternos.me",
     "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "port": 46048,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
